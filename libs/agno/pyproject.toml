@@ -512,6 +512,7 @@ module = [
   "newspaper.*",
   "numpy.*",
   "ollama.*",
+  "olostep.*",
   "openpyxl.*",
   "openai.*",
   "cv2.*",
